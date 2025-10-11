@@ -1,9 +1,9 @@
 # Hedging
 
-This repo contains the various notebook where I experiment hedging of a book using `QuantLib` library for pricing and representing the various position in the portfolio
+This repository contains a collection of Jupyter notebooks exploring different hedging strategies for managing a portfolio’s risk exposure. The experiments leverage the `QuantLib` library for pricing financial instruments and modeling portfolio positions.
 
-More notebook to come
+More notebooks and experiments will be added over time.
 
-## Author 
+## Author
 
-Paolo D'Elia
+Paolo D’Elia
