@@ -4,6 +4,13 @@ This repository contains a collection of Jupyter notebooks exploring different h
 
 More notebooks and experiments will be added over time.
 
+The available notebook are:
+
+- Fx
+    - [Exotic Book - Black-Scholes](/fx/exotic-book-bs.ipynb)
+    - [Exotic Book - Vanna-Volga](/fx/exotic-book-vanna-volga.ipynb)
+    - [Exotic Book - Local Volatility](/fx/exotic-book-local-vol.ipynb)
+
 ## Author
 
 Paolo D’Elia
